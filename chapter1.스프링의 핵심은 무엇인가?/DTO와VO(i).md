@@ -76,13 +76,14 @@ public class CarVO {
 	
 	
 	public void camera() {
-		
+		//..카메라 작동내용
 	}
 	public void navigation() {
-		
+		//..네비 작동내용
 	}
 	
 	public void autoSensor() {
+		//..오토센서 작동내용
 	}
 }
 
